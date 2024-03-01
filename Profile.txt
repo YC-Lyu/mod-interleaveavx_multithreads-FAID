@@ -1,0 +1,17 @@
+Simulation parameter
+StartSNR: 3
+SNRPass: 0.1
+EndSNR: 5
+DecodeMethod: 2
+MaxIteration: 6
+Modulation Parameter:
+modType: 2
+InterleaveModType: 1
+NMS  Factor:
+Factor_1: 1
+Factor_2: 6
+noFrames: 32
+scale: 13
+Matrix Factor
+FileName: 50GPON-CP12
+Z: 256

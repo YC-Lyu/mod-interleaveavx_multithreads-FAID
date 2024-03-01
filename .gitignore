@@ -1,0 +1,11 @@
+# binary
+*.o
+main
+build
+
+# debug
+# *.txt
+!Profile.txt
+!update.txt
+!CMakeLists.txt
+!scale.txt
